@@ -6,4 +6,4 @@ Input:
    * In Import / Export view
 
 ### Output
-   * simple interest = p*t*r
+   * simple interest = p'*'t'*'r
