@@ -5,5 +5,5 @@ Input:
    * r, annual rate of interest
    * In Import / Export view
 
-Output
-   simple interest = p*t*r
+### Output
+   * simple interest = p*t*r
